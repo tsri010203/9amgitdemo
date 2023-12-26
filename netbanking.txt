@@ -1,0 +1,1 @@
+public satic void main(string argss)
